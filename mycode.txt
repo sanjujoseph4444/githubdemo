@@ -2,10 +2,6 @@ kakakikoookkoo
 
 ee change onnumm venda chumma ittatha 
 branch vannu change aayi..ellam maari poya kalam.....conflict aayi :(
-<<<<<<< HEAD
-commit A 
+commit A
 commit B
 Commit C
-=======
-
->>>>>>> parent of 2dc744e (Commit A has been noted)
