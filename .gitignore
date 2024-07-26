@@ -1,0 +1,11 @@
+#these are files to be ignored
+serverlog.txt
+tempfile.txt
+
+#to ignore the files with a particular extension
+#*.log
+
+
+#ignore all contents of a directory
+#temp/
+
